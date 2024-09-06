@@ -1,0 +1,12 @@
+release/ClientHandlerThread.o
+release/SocketThread.o
+release/chatwindow.o
+release/loginwindow.o
+release/main.o
+release/server.o
+release/qrc_char.o
+release/moc_ClientHandlerThread.o
+release/moc_SocketThread.o
+release/moc_chatwindow.o
+release/moc_loginwindow.o
+release/moc_server.o
